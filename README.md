@@ -1,4 +1,4 @@
-# Task Master CLI
+# Task Manager CLI
 
 Task Master CLI is a command-line application in Python that simplifies managing your daily tasks. It's perfect for individuals looking to boost productivity and for developers with an interest in Python CLI tools. With Task Master CLI, you can add, update, and track tasks with ease. This project is the work of a single developer and is not open to direct contributions, but feedback is always welcome. 
 
